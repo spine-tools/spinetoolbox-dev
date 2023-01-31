@@ -2,7 +2,7 @@ Spine Toolbox development bundle
 ================================
 
 This Python meta-package can be used to install the latest development version 
-of [Spine Toolbox](https://github.com/Spine-project/Spine-Toolbox)
+of [Spine Toolbox](https://github.com/spine-tools/Spine-Toolbox)
 including its dependencies.
 
 Usage
@@ -16,7 +16,7 @@ environment to avoid package conflicts)
         
 Install the latest Spine Toolbox development version using
 
-    $ python -m pipx install git+https://github.com/Spine-project/spinetoolbox-dev
+    $ python -m pipx install git+https://github.com/spine-tools/spinetoolbox-dev
 
 Launch Spine Toolbox with
 
